@@ -166,3 +166,7 @@ while True:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(menu))
 ```
 
+### Hasil Program 
+![1](Gambar/Gambar1.png)
+
+### *Hasil hanya sebagin dari program*
