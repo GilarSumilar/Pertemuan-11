@@ -169,4 +169,4 @@ while True:
 ### Hasil Program 
 ![1](Gambar/Gambar1.png)
 
-### *Hasil hanya sebagin dari program*
+### *Hasil hanya sebagin dari fungsi program*
