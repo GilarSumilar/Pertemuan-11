@@ -2,7 +2,7 @@ list = {}
 
 def garis():
     '''Fungsi garis'''
-    print("~"*80)
+    print("~"*78)
 
     # Menambahkan data inputan 
 def tambah():
@@ -84,7 +84,7 @@ print("="*20)
 while True: 
     print()
     menu = input("[(T)ambah, (U)bah, (H)apus, (C)ari, (L)ihat, (K)eluar] : ")
-    print("~"*75)
+    garis()
     print()
 
     if menu.lower() == 't':
